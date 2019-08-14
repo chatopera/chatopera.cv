@@ -1,0 +1,4 @@
+[submodule "var/data"]
+	path = var/data
+	url = https://gitlab.chatopera.com/opensource/chatopera.cv.data.git
+	branch = develop
